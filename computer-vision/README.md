@@ -1,0 +1,1 @@
+Python OpenCV computer vision for checkers robotic arm. Analyzes still images of game board to determine piece position and returns moves taken by opponent between turns.
